@@ -60,4 +60,4 @@ Chaque section est contenue dans un `Container` coloré pour bien visualiser les
 
 Projet développé dans le cadre d’un cours Flutter pour illustrer les principes de mise en page.
 
-📄 Licence : Ce projet est distribué sous la licence [MIT](LICENSE).
+📄 Licence : 📄 Licence : Ce projet est distribué sous la licence Academic Free License v3.0 ([AFL-3.0](https://opensource.org/licenses/AFL-3.0)).
