@@ -29,17 +29,17 @@ Chaque section est contenue dans un `Container` coloré pour bien visualiser les
 
 ---
 
-## 📸 Aperçu
+## Aperçu
 
 > Vous pouvez exécuter l’application sur un simulateur ou un appareil mobile pour voir l’effet de chaque alignement en temps réel.
 
 ---
 
-## 🚀 Lancer le projet
+## Lancer le projet
 
 1. Cloner ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/flutter_alignement_horizontal.git
+   git clone https://github.com/ariatsi/flutter_alignement_horizontal.git
    cd flutter_alignement_horizontal
    ```
 2. Ouvrir dans [Android Studio](https://developer.android.com/studio) ou [VS Code](https://code.visualstudio.com/).
@@ -53,7 +53,6 @@ Chaque section est contenue dans un `Container` coloré pour bien visualiser les
 
 - [Documentation officielle sur Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
 - [Guide sur l'alignement dans Flutter](https://flutter.dev/docs/development/ui/layout#aligning-widgets)
-- [Flutter Widget of the Week – Column](https://www.youtube.com/watch?v=JLGgk4XbtaE)
 
 ---
 
